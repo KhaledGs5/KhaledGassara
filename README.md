@@ -3,6 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhaledGs5&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
+- 💬 Media Manager at **Club Tunsa ENSI**
+
 - 💬 Active membre in **IEEE ENSI SB,ARE,CPC and OSSEC**
 
 - 📫 How to reach me **khaled.gassara@ensi-uma.tn**

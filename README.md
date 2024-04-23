@@ -34,5 +34,8 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" alt="esp32" width="40" height="40"/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> </a>
 </p>
 
